@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Baidu IFE task1</title>
+  </head>
+  <body>
+    <h1>网站一级标题</h1>
+    <ul>
+      <li><a>导航链接一</a></li>
+      <li><a>导航链接二</a></li>
+      <li><a>导航链接三</a></li>
+      <li><a>导航链接四</a></li>
+    </ul>
+    <article>
+      <h2>文章一级标题</h2>
+      <h3>文章二级标题</h2>
+      <p>文章作者 文章发表时间</p>
+      <p>这是一个段落这是一个段落这是一个段落这是一个段落这是一个段落这是一个段落。还行了<br />
+      这是一个段落这是一个段落这是一个段落这是一个段落这是一个段落这是一个段落这是一个段落这是一个段落这是一个段落这是一个段落这是一个段落这是一个段落这是一个段落。换行了<br />
+      这是一个段落这是一个段落这是一个段落<a herf="http://ife.baidu.com">这里有个链接链接到http://ife.baidu.com</a>这是一个段落这是一个段落这是一个段落</p>
+      <img src="http://oss.0574bbs.com/forum/201604/14/193515tcljil33873z8pwc.jpg" alt="Kobe" style="width="600px;height="800px" />
+      <p>这是一个段落这是一个段落这是一个段落<strong>这里有一段粗体字</strong>这是一个段落这是一个段落这是一个段落<br />
+      这是一个段落这是一个段落这是一个段落。<a target="_blank" herf="http://ife.baidu.com">这是一个链接点击后打开新窗口连接到http://ife.baidu.com</a>这是一个段落这是一个段落这是一个这是一个段落</p>
+    </article>
+  </body>
+</html>
